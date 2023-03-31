@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "special_part_withdraw", "special_part_withdraw\special_part_withdraw.csproj", "{934E1402-B2A5-4488-BA0F-A975235D2EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934E1402-B2A5-4488-BA0F-A975235D2EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934E1402-B2A5-4488-BA0F-A975235D2EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934E1402-B2A5-4488-BA0F-A975235D2EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934E1402-B2A5-4488-BA0F-A975235D2EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97A87C4-8A44-4864-8DE3-289FDD4C0C3D}
+	EndGlobalSection
+EndGlobal
